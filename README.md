@@ -1,5 +1,7 @@
 # README #
 
+Useful python script for datamining (image, video)
+
 ### Installation
 
 - conda create --prefix ./venv
